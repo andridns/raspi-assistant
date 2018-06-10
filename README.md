@@ -4,8 +4,9 @@ Deploying deep learning models as well as OpenCV human recognition models (facia
 
 ## Available Models
 
-- Image Captioning
 - Image Classification
+- Image Captioning
+- Object Detection
 - OpenCV Facial Recognition
 - OpenCV Upper-body Recognition
 - OpenCV Full-body Recognition
